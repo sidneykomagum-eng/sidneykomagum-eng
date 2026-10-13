@@ -1,3 +1,8 @@
+<div align="center">
+
+<!-- PROFILE PICTURE: Upload your picture (2025_02_17_15_28_IMG_7019.JPG) to your repo and update the path below -->
+<img src="./profile.jpg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%;">
+</div>
 # Hi, I'm Sidney Komagum 👋
 
 **Land Surveyor · Field Data Collector ·Data Scientist  Kampala, Uganda**
