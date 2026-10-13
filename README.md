@@ -25,7 +25,7 @@ I love visiting land and helping resolve land disputes. I plan and organize plot
 ## 🎓 Education
 - UACE, Seroma Christian High School (2017–2018)
 - UCE, St Mary's Secondary School, Kitende (2012–2015)
-- persusing a Bsc in Data Science and Analytics from Uganda Christian University (2026-2028)
+- Persueing a Bsc in Data Science and Analytics from Uganda Christian University (2026-2028)
 
 ## 🧰 Tools
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white)
